@@ -4,8 +4,8 @@
         <name>Threadkin</name>
         <description></description>
         <author url="https://github.com/JayDuskk">JayDuskk</author>
-        <update>
-            <file name="race-threadkin.xml" url="" />
+        <update version="1.0">
+            <file name="race-threadkin.xml" url="https://raw.githubusercontent.com/JayDuskk/DoD/main/DoD/Races/race-threadkin.xml" />
         </update>
     </info>
     <element name="Threadkin" type="Race" source="Dominion of Dusk" id="ID_RACE_DOD_THREADKIN">
