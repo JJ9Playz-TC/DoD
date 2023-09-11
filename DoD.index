@@ -8,5 +8,8 @@
 	</info>
 	<files>
 		<file name="source.xml" url="https://github.com/JayDuskk/DoD/blob/main/DoD/source.xml" />
+
+		<!-- Races -->
+		<file name="" url=""/>
 	</files>
 </index>

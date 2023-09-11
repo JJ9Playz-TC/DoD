@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements>
+    <info>
+        <name>Threadkin</name>
+        <description></description>
+        <author url="">JayDuskk</author>
+        <update>
+            <file name="race-threadkin.xml" url="" />
+        </update>
+    </info>
+    <element name="Threadkin" type="Race" source="Dominion of Dusk" id="ID_RACE_DOD_THREADKIN">
+        <description>
+            <p class="flavour">Made from magical thread these living voodoo dolls live amongst us and yet few know of them</p>
+        </description>
+    </element>
+</elements>
